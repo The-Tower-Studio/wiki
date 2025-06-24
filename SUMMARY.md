@@ -8,3 +8,4 @@
 * [Baies](baies.md)
 * [Canne Poké](canne-poke.md)
 * [Noigrumes](noigrumes.md)
+* [Pokemon](pokemon.md)
